@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 9 (Easy: 6, Medium: 3, Hard: 0)
+Solved: 10 (Easy: 6, Medium: 4, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -12,7 +12,8 @@ Solved: 9 (Easy: 6, Medium: 3, Hard: 0)
 | 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-10-06 |
 | 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-10-06 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-06 |
+| 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-06 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-06 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-06 |
-| 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-06 |
+| 921 | [Minimum Add to Make Parentheses Valid](921-minimum-add-to-make-parentheses-valid/) | Medium | 2026-10-06 |
 <!-- LEETHUB:TABLE:END -->
