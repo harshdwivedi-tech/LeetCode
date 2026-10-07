@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 14 (Easy: 7, Medium: 6, Hard: 1)
+Solved: 15 (Easy: 7, Medium: 7, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -16,8 +16,9 @@ Solved: 14 (Easy: 7, Medium: 6, Hard: 1)
 | 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-10-07 |
 | 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-10-07 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-07 |
+| 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-10-07 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-07 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-07 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-07 |
-| 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-10-07 |
+| 45 | [Jump Game II](45-jump-game-ii/) | Medium | 2026-10-07 |
 <!-- LEETHUB:TABLE:END -->
