@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 13 (Easy: 7, Medium: 6, Hard: 0)
+Solved: 14 (Easy: 7, Medium: 6, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -19,4 +19,5 @@ Solved: 13 (Easy: 7, Medium: 6, Hard: 0)
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-07 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-07 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-07 |
+| 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-10-07 |
 <!-- LEETHUB:TABLE:END -->
