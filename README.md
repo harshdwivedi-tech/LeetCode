@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 18 (Easy: 8, Medium: 9, Hard: 1)
+Solved: 19 (Easy: 8, Medium: 10, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -10,6 +10,7 @@ Solved: 18 (Easy: 8, Medium: 9, Hard: 1)
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-10-08 |
 | 122 | [Best Time to Buy and Sell Stock II](122-best-time-to-buy-and-sell-stock-ii/) | Medium | 2026-10-08 |
 | 274 | [H-Index](274-h-index/) | Medium | 2026-10-08 |
+| 380 | [Insert Delete GetRandom O(1)](380-insert-delete-getrandom-o1/) | Medium | 2026-10-08 |
 | 55 | [Jump Game](55-jump-game/) | Medium | 2026-10-08 |
 | 45 | [Jump Game II](45-jump-game-ii/) | Medium | 2026-10-08 |
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-10-08 |
@@ -23,5 +24,5 @@ Solved: 18 (Easy: 8, Medium: 9, Hard: 1)
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-08 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-08 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-08 |
-| 380 | [Insert Delete GetRandom O(1)](380-insert-delete-getrandom-o1/) | Medium | 2026-10-08 |
+| 238 | [Product of Array Except Self](238-product-of-array-except-self/) | Medium | 2026-10-08 |
 <!-- LEETHUB:TABLE:END -->
