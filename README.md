@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 22 (Easy: 8, Medium: 12, Hard: 2)
+Solved: 23 (Easy: 8, Medium: 13, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -28,4 +28,5 @@ Solved: 22 (Easy: 8, Medium: 12, Hard: 2)
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-10 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-10 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-10 |
+| 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium | 2026-10-10 |
 <!-- LEETHUB:TABLE:END -->
