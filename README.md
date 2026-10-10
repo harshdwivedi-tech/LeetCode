@@ -9,6 +9,7 @@ Solved: 22 (Easy: 8, Medium: 12, Hard: 2)
 | 2 | [Add Two Numbers](2-add-two-numbers/) | Medium | 2026-10-10 |
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-10-10 |
 | 122 | [Best Time to Buy and Sell Stock II](122-best-time-to-buy-and-sell-stock-ii/) | Medium | 2026-10-10 |
+| 135 | [Candy](135-candy/) | Hard | 2026-10-10 |
 | 134 | [Gas Station](134-gas-station/) | Medium | 2026-10-10 |
 | 274 | [H-Index](274-h-index/) | Medium | 2026-10-10 |
 | 380 | [Insert Delete GetRandom O(1)](380-insert-delete-getrandom-o1/) | Medium | 2026-10-10 |
@@ -27,5 +28,4 @@ Solved: 22 (Easy: 8, Medium: 12, Hard: 2)
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-10 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-10 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-10 |
-| 135 | [Candy](135-candy/) | Hard | 2026-10-10 |
 <!-- LEETHUB:TABLE:END -->
