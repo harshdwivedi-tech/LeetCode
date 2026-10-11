@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 24 (Easy: 8, Medium: 13, Hard: 3)
+Solved: 25 (Easy: 9, Medium: 13, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -30,4 +30,5 @@ Solved: 24 (Easy: 8, Medium: 13, Hard: 3)
 | 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-10-11 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-11 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-11 |
+| 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-11 |
 <!-- LEETHUB:TABLE:END -->
