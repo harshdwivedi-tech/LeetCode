@@ -1,5 +1,0 @@
-## Approach
-
-## Complexity
-
-## Notes
