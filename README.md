@@ -27,7 +27,7 @@ Solved: 24 (Easy: 8, Medium: 13, Hard: 3)
 | 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-10-11 |
 | 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses/) | Easy | 2026-10-11 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-11 |
+| 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-10-11 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-11 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-11 |
-| 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-10-11 |
 <!-- LEETHUB:TABLE:END -->
