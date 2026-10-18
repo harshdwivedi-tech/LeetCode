@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 31 (Easy: 11, Medium: 15, Hard: 5)
+Solved: 32 (Easy: 12, Medium: 15, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -23,6 +23,7 @@ Solved: 31 (Easy: 11, Medium: 15, Hard: 5)
 | 1541 | [Minimum Insertions to Balance a Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | 2026-10-18 |
 | 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium | 2026-10-18 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum/) | Medium | 2026-10-18 |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 2026-10-18 |
 | 238 | [Product of Array Except Self](238-product-of-array-except-self/) | Medium | 2026-10-18 |
 | 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-10-18 |
 | 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-10-18 |
@@ -36,5 +37,5 @@ Solved: 31 (Easy: 11, Medium: 15, Hard: 5)
 | 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-10-18 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-18 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-18 |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 2026-10-18 |
+| 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2026-10-18 |
 <!-- LEETHUB:TABLE:END -->
