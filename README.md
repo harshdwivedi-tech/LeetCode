@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 33 (Easy: 13, Medium: 15, Hard: 5)
+Solved: 34 (Easy: 13, Medium: 15, Hard: 6)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -11,6 +11,7 @@ Solved: 33 (Easy: 13, Medium: 15, Hard: 5)
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-10-19 |
 | 122 | [Best Time to Buy and Sell Stock II](122-best-time-to-buy-and-sell-stock-ii/) | Medium | 2026-10-19 |
 | 135 | [Candy](135-candy/) | Hard | 2026-10-19 |
+| 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-10-19 |
 | 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2026-10-19 |
 | 134 | [Gas Station](134-gas-station/) | Medium | 2026-10-19 |
 | 274 | [H-Index](274-h-index/) | Medium | 2026-10-19 |
@@ -38,5 +39,5 @@ Solved: 33 (Easy: 13, Medium: 15, Hard: 5)
 | 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-10-19 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-19 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-19 |
-| 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-10-19 |
+| 68 | [Text Justification](68-text-justification/) | Hard | 2026-10-19 |
 <!-- LEETHUB:TABLE:END -->
