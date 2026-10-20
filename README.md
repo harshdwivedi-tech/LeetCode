@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 35 (Easy: 13, Medium: 15, Hard: 7)
+Solved: 36 (Easy: 14, Medium: 15, Hard: 7)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -35,10 +35,11 @@ Solved: 35 (Easy: 13, Medium: 15, Hard: 7)
 | 151 | [Reverse Words in a String](151-reverse-words-in-a-string/) | Medium | 2026-10-20 |
 | 13 | [Roman to Integer](13-roman-to-integer/) | Easy | 2026-10-20 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-20 |
+| 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/) | Hard | 2026-10-20 |
 | 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-20 |
 | 68 | [Text Justification](68-text-justification/) | Hard | 2026-10-20 |
 | 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-10-20 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-20 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-20 |
-| 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/) | Hard | 2026-10-20 |
+| 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-20 |
 <!-- LEETHUB:TABLE:END -->
