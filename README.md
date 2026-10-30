@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 41 (Easy: 16, Medium: 18, Hard: 7)
+Solved: 42 (Easy: 16, Medium: 19, Hard: 7)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -39,6 +39,7 @@ Solved: 41 (Easy: 16, Medium: 18, Hard: 7)
 | 151 | [Reverse Words in a String](151-reverse-words-in-a-string/) | Medium | 2026-10-30 |
 | 13 | [Roman to Integer](13-roman-to-integer/) | Easy | 2026-10-30 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-30 |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 2026-10-30 |
 | 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/) | Hard | 2026-10-30 |
 | 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-30 |
 | 68 | [Text Justification](68-text-justification/) | Hard | 2026-10-30 |
@@ -46,5 +47,5 @@ Solved: 41 (Easy: 16, Medium: 18, Hard: 7)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-30 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-30 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-30 |
-| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 2026-10-30 |
+| 54 | [Spiral Matrix](54-spiral-matrix/) | Medium | 2026-10-30 |
 <!-- LEETHUB:TABLE:END -->
