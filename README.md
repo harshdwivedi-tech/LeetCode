@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 48 (Easy: 17, Medium: 23, Hard: 8)
+Solved: 49 (Easy: 18, Medium: 23, Hard: 8)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -14,6 +14,7 @@ Solved: 48 (Easy: 17, Medium: 23, Hard: 8)
 | 3619 | [Count Islands With Total Value Divisible by K](3619-count-islands-with-total-value-divisible-by-k/) | Medium | 2026-11-05 |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/) | Easy | 2026-11-05 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-11-05 |
+| 1385 | [Find the Distance Value Between Two Arrays](1385-find-the-distance-value-between-two-arrays/) | Easy | 2026-11-05 |
 | 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2026-11-05 |
 | 289 | [Game of Life](289-game-of-life/) | Medium | 2026-11-05 |
 | 134 | [Gas Station](134-gas-station/) | Medium | 2026-11-05 |
@@ -53,5 +54,5 @@ Solved: 48 (Easy: 17, Medium: 23, Hard: 8)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-05 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-05 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-05 |
-| 1385 | [Find the Distance Value Between Two Arrays](1385-find-the-distance-value-between-two-arrays/) | Easy | 2026-11-05 |
+| 290 | [Word Pattern](290-word-pattern/) | Easy | 2026-11-05 |
 <!-- LEETHUB:TABLE:END -->
