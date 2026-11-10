@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 52 (Easy: 19, Medium: 25, Hard: 8)
+Solved: 53 (Easy: 19, Medium: 26, Hard: 8)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -11,6 +11,7 @@ Solved: 52 (Easy: 19, Medium: 25, Hard: 8)
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-11-10 |
 | 122 | [Best Time to Buy and Sell Stock II](122-best-time-to-buy-and-sell-stock-ii/) | Medium | 2026-11-10 |
 | 135 | [Candy](135-candy/) | Hard | 2026-11-10 |
+| 3693 | [Climbing Stairs II](3693-climbing-stairs-ii/) | Medium | 2026-11-10 |
 | 219 | [Contains Duplicate II](219-contains-duplicate-ii/) | Easy | 2026-11-10 |
 | 3619 | [Count Islands With Total Value Divisible by K](3619-count-islands-with-total-value-divisible-by-k/) | Medium | 2026-11-10 |
 | 1267 | [Count Servers that Communicate](1267-count-servers-that-communicate/) | Medium | 2026-11-10 |
@@ -57,5 +58,5 @@ Solved: 52 (Easy: 19, Medium: 25, Hard: 8)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-10 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-10 |
 | 290 | [Word Pattern](290-word-pattern/) | Easy | 2026-11-10 |
-| 3693 | [Climbing Stairs II](3693-climbing-stairs-ii/) | Medium | 2026-11-10 |
+| 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-11-10 |
 <!-- LEETHUB:TABLE:END -->
