@@ -2,59 +2,60 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 51 (Easy: 19, Medium: 24, Hard: 8)
+Solved: 52 (Easy: 19, Medium: 25, Hard: 8)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 2 | [Add Two Numbers](2-add-two-numbers/) | Medium | 2026-11-09 |
-| 2897 | [Apply Operations on Array to Maximize Sum of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | 2026-11-09 |
-| 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-11-09 |
-| 122 | [Best Time to Buy and Sell Stock II](122-best-time-to-buy-and-sell-stock-ii/) | Medium | 2026-11-09 |
-| 135 | [Candy](135-candy/) | Hard | 2026-11-09 |
-| 3619 | [Count Islands With Total Value Divisible by K](3619-count-islands-with-total-value-divisible-by-k/) | Medium | 2026-11-09 |
-| 1267 | [Count Servers that Communicate](1267-count-servers-that-communicate/) | Medium | 2026-11-09 |
-| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/) | Easy | 2026-11-09 |
-| 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-11-09 |
-| 1385 | [Find the Distance Value Between Two Arrays](1385-find-the-distance-value-between-two-arrays/) | Easy | 2026-11-09 |
-| 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2026-11-09 |
-| 289 | [Game of Life](289-game-of-life/) | Medium | 2026-11-09 |
-| 134 | [Gas Station](134-gas-station/) | Medium | 2026-11-09 |
-| 274 | [H-Index](274-h-index/) | Medium | 2026-11-09 |
-| 380 | [Insert Delete GetRandom O(1)](380-insert-delete-getrandom-o1/) | Medium | 2026-11-09 |
-| 392 | [Is Subsequence](392-is-subsequence/) | Easy | 2026-11-09 |
-| 55 | [Jump Game](55-jump-game/) | Medium | 2026-11-09 |
-| 45 | [Jump Game II](45-jump-game-ii/) | Medium | 2026-11-09 |
-| 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-11-09 |
-| 169 | [Majority Element](169-majority-element/) | Easy | 2026-11-09 |
-| 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-11-09 |
-| 921 | [Minimum Add to Make Parentheses Valid](921-minimum-add-to-make-parentheses-valid/) | Medium | 2026-11-09 |
-| 1541 | [Minimum Insertions to Balance a Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | 2026-11-09 |
-| 453 | [Minimum Moves to Equal Array Elements](453-minimum-moves-to-equal-array-elements/) | Medium | 2026-11-09 |
-| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard | 2026-11-09 |
-| 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium | 2026-11-09 |
-| 3551 | [Minimum Swaps to Sort by Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum/) | Medium | 2026-11-09 |
-| 3882 | [Minimum XOR Path in a Grid](3882-minimum-xor-path-in-a-grid/) | Medium | 2026-11-09 |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 2026-11-09 |
-| 238 | [Product of Array Except Self](238-product-of-array-except-self/) | Medium | 2026-11-09 |
-| 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-11-09 |
-| 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-11-09 |
-| 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-09 |
-| 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-11-09 |
-| 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses/) | Easy | 2026-11-09 |
-| 151 | [Reverse Words in a String](151-reverse-words-in-a-string/) | Medium | 2026-11-09 |
-| 13 | [Roman to Integer](13-roman-to-integer/) | Easy | 2026-11-09 |
-| 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-11-09 |
-| 73 | [Set Matrix Zeroes](73-set-matrix-zeroes/) | Medium | 2026-11-09 |
-| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 2026-11-09 |
-| 54 | [Spiral Matrix](54-spiral-matrix/) | Medium | 2026-11-09 |
-| 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/) | Hard | 2026-11-09 |
-| 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-11-09 |
-| 68 | [Text Justification](68-text-justification/) | Hard | 2026-11-09 |
-| 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-11-09 |
-| 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/) | Medium | 2026-11-09 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-09 |
-| 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-09 |
-| 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-09 |
-| 290 | [Word Pattern](290-word-pattern/) | Easy | 2026-11-09 |
-| 219 | [Contains Duplicate II](219-contains-duplicate-ii/) | Easy | 2026-11-09 |
+| 2 | [Add Two Numbers](2-add-two-numbers/) | Medium | 2026-11-10 |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | 2026-11-10 |
+| 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-11-10 |
+| 122 | [Best Time to Buy and Sell Stock II](122-best-time-to-buy-and-sell-stock-ii/) | Medium | 2026-11-10 |
+| 135 | [Candy](135-candy/) | Hard | 2026-11-10 |
+| 219 | [Contains Duplicate II](219-contains-duplicate-ii/) | Easy | 2026-11-10 |
+| 3619 | [Count Islands With Total Value Divisible by K](3619-count-islands-with-total-value-divisible-by-k/) | Medium | 2026-11-10 |
+| 1267 | [Count Servers that Communicate](1267-count-servers-that-communicate/) | Medium | 2026-11-10 |
+| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/) | Easy | 2026-11-10 |
+| 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-11-10 |
+| 1385 | [Find the Distance Value Between Two Arrays](1385-find-the-distance-value-between-two-arrays/) | Easy | 2026-11-10 |
+| 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2026-11-10 |
+| 289 | [Game of Life](289-game-of-life/) | Medium | 2026-11-10 |
+| 134 | [Gas Station](134-gas-station/) | Medium | 2026-11-10 |
+| 274 | [H-Index](274-h-index/) | Medium | 2026-11-10 |
+| 380 | [Insert Delete GetRandom O(1)](380-insert-delete-getrandom-o1/) | Medium | 2026-11-10 |
+| 392 | [Is Subsequence](392-is-subsequence/) | Easy | 2026-11-10 |
+| 55 | [Jump Game](55-jump-game/) | Medium | 2026-11-10 |
+| 45 | [Jump Game II](45-jump-game-ii/) | Medium | 2026-11-10 |
+| 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-11-10 |
+| 169 | [Majority Element](169-majority-element/) | Easy | 2026-11-10 |
+| 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-11-10 |
+| 921 | [Minimum Add to Make Parentheses Valid](921-minimum-add-to-make-parentheses-valid/) | Medium | 2026-11-10 |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | 2026-11-10 |
+| 453 | [Minimum Moves to Equal Array Elements](453-minimum-moves-to-equal-array-elements/) | Medium | 2026-11-10 |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard | 2026-11-10 |
+| 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium | 2026-11-10 |
+| 3551 | [Minimum Swaps to Sort by Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum/) | Medium | 2026-11-10 |
+| 3882 | [Minimum XOR Path in a Grid](3882-minimum-xor-path-in-a-grid/) | Medium | 2026-11-10 |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 2026-11-10 |
+| 238 | [Product of Array Except Self](238-product-of-array-except-self/) | Medium | 2026-11-10 |
+| 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-11-10 |
+| 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-11-10 |
+| 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-10 |
+| 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-11-10 |
+| 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses/) | Easy | 2026-11-10 |
+| 151 | [Reverse Words in a String](151-reverse-words-in-a-string/) | Medium | 2026-11-10 |
+| 13 | [Roman to Integer](13-roman-to-integer/) | Easy | 2026-11-10 |
+| 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-11-10 |
+| 73 | [Set Matrix Zeroes](73-set-matrix-zeroes/) | Medium | 2026-11-10 |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 2026-11-10 |
+| 54 | [Spiral Matrix](54-spiral-matrix/) | Medium | 2026-11-10 |
+| 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/) | Hard | 2026-11-10 |
+| 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-11-10 |
+| 68 | [Text Justification](68-text-justification/) | Hard | 2026-11-10 |
+| 42 | [Trapping Rain Water](42-trapping-rain-water/) | Hard | 2026-11-10 |
+| 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/) | Medium | 2026-11-10 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-10 |
+| 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-10 |
+| 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-10 |
+| 290 | [Word Pattern](290-word-pattern/) | Easy | 2026-11-10 |
+| 3693 | [Climbing Stairs II](3693-climbing-stairs-ii/) | Medium | 2026-11-10 |
 <!-- LEETHUB:TABLE:END -->
