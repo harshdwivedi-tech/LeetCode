@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 60 (Easy: 21, Medium: 29, Hard: 10)
+Solved: 61 (Easy: 21, Medium: 29, Hard: 11)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -40,6 +40,7 @@ Solved: 60 (Easy: 21, Medium: 29, Hard: 10)
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | 2026-11-19 |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard | 2026-11-19 |
 | 3364 | [Minimum Positive Sum Subarray ](3364-minimum-positive-sum-subarray/) | Easy | 2026-11-19 |
+| 2567 | [Minimum Score by Changing Two Elements](2567-minimum-score-by-changing-two-elements/) | Medium | 2026-11-19 |
 | 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium | 2026-11-19 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum/) | Medium | 2026-11-19 |
 | 3882 | [Minimum XOR Path in a Grid](3882-minimum-xor-path-in-a-grid/) | Medium | 2026-11-19 |
@@ -65,5 +66,5 @@ Solved: 60 (Easy: 21, Medium: 29, Hard: 10)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-19 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-19 |
 | 290 | [Word Pattern](290-word-pattern/) | Easy | 2026-11-19 |
-| 2567 | [Minimum Score by Changing Two Elements](2567-minimum-score-by-changing-two-elements/) | Medium | 2026-11-19 |
+| 224 | [Basic Calculator](224-basic-calculator/) | Hard | 2026-11-19 |
 <!-- LEETHUB:TABLE:END -->
