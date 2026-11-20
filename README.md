@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 62 (Easy: 22, Medium: 29, Hard: 11)
+Solved: 63 (Easy: 22, Medium: 29, Hard: 12)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -28,6 +28,7 @@ Solved: 62 (Easy: 22, Medium: 29, Hard: 11)
 | 392 | [Is Subsequence](392-is-subsequence/) | Easy | 2026-11-20 |
 | 55 | [Jump Game](55-jump-game/) | Medium | 2026-11-20 |
 | 45 | [Jump Game II](45-jump-game-ii/) | Medium | 2026-11-20 |
+| 141 | [Linked List Cycle](141-linked-list-cycle/) | Easy | 2026-11-20 |
 | 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-11-20 |
 | 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-11-20 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 2026-11-20 |
@@ -67,5 +68,5 @@ Solved: 62 (Easy: 22, Medium: 29, Hard: 11)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-20 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-20 |
 | 290 | [Word Pattern](290-word-pattern/) | Easy | 2026-11-20 |
-| 141 | [Linked List Cycle](141-linked-list-cycle/) | Easy | 2026-11-20 |
+| 3041 | [Maximize Consecutive Elements in an Array After Modification](3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard | 2026-11-20 |
 <!-- LEETHUB:TABLE:END -->
