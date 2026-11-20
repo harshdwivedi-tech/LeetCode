@@ -1,4 +1,4 @@
-// 73 ms | 74.5 MB
+// 74 ms | 74.2 MB
 class Solution {
     public int maxSelectedElements(int[] nums) {
         Arrays.sort(nums);
