@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 65 (Easy: 23, Medium: 30, Hard: 12)
+Solved: 66 (Easy: 23, Medium: 31, Hard: 12)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -36,6 +36,7 @@ Solved: 65 (Easy: 23, Medium: 30, Hard: 12)
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-11-21 |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard | 2026-11-21 |
 | 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-11-21 |
+| 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists/) | Easy | 2026-11-21 |
 | 155 | [Min Stack](155-min-stack/) | Medium | 2026-11-21 |
 | 921 | [Minimum Add to Make Parentheses Valid](921-minimum-add-to-make-parentheses-valid/) | Medium | 2026-11-21 |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](2911-minimum-changes-to-make-k-semi-palindromes/) | Hard | 2026-11-21 |
@@ -70,5 +71,5 @@ Solved: 65 (Easy: 23, Medium: 30, Hard: 12)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-21 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-21 |
 | 290 | [Word Pattern](290-word-pattern/) | Easy | 2026-11-21 |
-| 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists/) | Easy | 2026-11-21 |
+| 138 | [Copy List with Random Pointer](138-copy-list-with-random-pointer/) | Medium | 2026-11-21 |
 <!-- LEETHUB:TABLE:END -->
