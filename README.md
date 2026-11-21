@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 64 (Easy: 22, Medium: 30, Hard: 12)
+Solved: 65 (Easy: 23, Medium: 30, Hard: 12)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -18,6 +18,7 @@ Solved: 64 (Easy: 22, Medium: 30, Hard: 12)
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](3420-count-non-decreasing-subarrays-after-k-operations/) | Hard | 2026-11-21 |
 | 1267 | [Count Servers that Communicate](1267-count-servers-that-communicate/) | Medium | 2026-11-21 |
 | 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/) | Easy | 2026-11-21 |
+| 3331 | [Find Subtree Sizes After Changes](3331-find-subtree-sizes-after-changes/) | Medium | 2026-11-21 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-11-21 |
 | 1385 | [Find the Distance Value Between Two Arrays](1385-find-the-distance-value-between-two-arrays/) | Easy | 2026-11-21 |
 | 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2026-11-21 |
@@ -69,5 +70,5 @@ Solved: 64 (Easy: 22, Medium: 30, Hard: 12)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-21 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-21 |
 | 290 | [Word Pattern](290-word-pattern/) | Easy | 2026-11-21 |
-| 3331 | [Find Subtree Sizes After Changes](3331-find-subtree-sizes-after-changes/) | Medium | 2026-11-21 |
+| 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists/) | Easy | 2026-11-21 |
 <!-- LEETHUB:TABLE:END -->
