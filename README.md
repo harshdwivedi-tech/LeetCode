@@ -2,7 +2,7 @@
 My LeetCode problem-solving journey in Java
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 68 (Easy: 23, Medium: 32, Hard: 13)
+Solved: 69 (Easy: 23, Medium: 33, Hard: 13)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -63,6 +63,7 @@ Solved: 68 (Easy: 23, Medium: 32, Hard: 13)
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-11-25 |
 | 73 | [Set Matrix Zeroes](73-set-matrix-zeroes/) | Medium | 2026-11-25 |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 2026-11-25 |
+| 3934 | [Smallest Unique Subarray](3934-smallest-unique-subarray/) | Hard | 2026-11-25 |
 | 54 | [Spiral Matrix](54-spiral-matrix/) | Medium | 2026-11-25 |
 | 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/) | Hard | 2026-11-25 |
 | 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-11-25 |
@@ -73,5 +74,5 @@ Solved: 68 (Easy: 23, Medium: 32, Hard: 13)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-25 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-25 |
 | 290 | [Word Pattern](290-word-pattern/) | Easy | 2026-11-25 |
-| 3934 | [Smallest Unique Subarray](3934-smallest-unique-subarray/) | Hard | 2026-11-25 |
+| 82 | [Remove Duplicates from Sorted List II](82-remove-duplicates-from-sorted-list-ii/) | Medium | 2026-11-25 |
 <!-- LEETHUB:TABLE:END -->
